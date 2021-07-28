@@ -1,0 +1,38 @@
+/* Style to fix the issue of text extending past card length */
+body{
+    font-family: Helvetica, sans-serif;
+  }
+
+#current-weather-data{
+    border: solid 5px;
+    margin-top: 25px;
+    float: left;
+  }
+
+#header {
+      background-color: black;
+      color:white;
+      font-size: 36px;
+      font-weight: bolder;
+  }
+
+  #history {
+    background-color: gray;
+}
+
+
+#search-button {
+    width:204px;
+    margin-bottom: 15px;
+    
+}
+ 
+
+
+
+
+ 
+  
+  
+
+
